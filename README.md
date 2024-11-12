@@ -66,7 +66,7 @@ The dependencies are listed in `requirements.txt`.
 1. **Clone the Repository**
 
    ```bash
-   git clone https://github.com/your-username/autism-detection-cnn.git
+   git clone https://github.com/P-Potdar/Autism_detection.git
    cd autism-detection-cnn
    ```
 
